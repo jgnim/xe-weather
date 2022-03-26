@@ -1,23 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import MainApp from './components/MainApp';
+import {createGlobalStyle, ThemeProvider} from 'styled-components'
+import WebFont from 'webfontloader'
+import {useEffect} from 'react'
 
 function App() {
+  useEffect(()=>{
+    WebFont.load({
+      google: {
+        families: ['Inter']
+      }
+    })    
+  },[])
+  const textColours = {
+    main: `#001133`,
+    sub: `#989EAA`,
+    background: [`#E4F0FE`,`#C3E0FB`,`#CDF0EB`,`#FFF4DA`,`#FDD4D7`]    
+  }
+  const GlobalStyle = createGlobalStyle`
+    body{
+      color: ${textColours.main};
+      font-family: 'Inter';
+    }
+  `
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <ThemeProvider theme={textColours}>
+        <GlobalStyle/>
+        <MainApp />
+      </ThemeProvider>
+      
     </div>
   );
 }
