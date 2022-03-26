@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/xe-weather/static/css/main.e6c13ad2.css",
-    "main.js": "/xe-weather/static/js/main.a596801c.js",
+    "main.js": "/xe-weather/static/js/main.c8bb279c.js",
     "static/js/787.8ced7805.chunk.js": "/xe-weather/static/js/787.8ced7805.chunk.js",
     "static/media/cities.csv": "/xe-weather/static/media/cities.14930adabb1f11de9f0c.csv",
     "static/media/drizzle.svg": "/xe-weather/static/media/drizzle.9bd38bc95e23f42b44169b5304d333fa.svg",
@@ -23,11 +23,11 @@
     "index.html": "/xe-weather/index.html",
     "static/media/foggy.svg": "/xe-weather/static/media/foggy.1edba1334a6fd34ef662f3ea820af7b4.svg",
     "main.e6c13ad2.css.map": "/xe-weather/static/css/main.e6c13ad2.css.map",
-    "main.a596801c.js.map": "/xe-weather/static/js/main.a596801c.js.map",
+    "main.c8bb279c.js.map": "/xe-weather/static/js/main.c8bb279c.js.map",
     "787.8ced7805.chunk.js.map": "/xe-weather/static/js/787.8ced7805.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a596801c.js"
+    "static/js/main.c8bb279c.js"
   ]
 }
