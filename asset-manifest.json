@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/xe-weather/static/css/main.e6c13ad2.css",
+    "main.js": "/xe-weather/static/js/main.a596801c.js",
+    "static/js/787.8ced7805.chunk.js": "/xe-weather/static/js/787.8ced7805.chunk.js",
+    "static/media/cities.csv": "/xe-weather/static/media/cities.14930adabb1f11de9f0c.csv",
+    "static/media/drizzle.svg": "/xe-weather/static/media/drizzle.9bd38bc95e23f42b44169b5304d333fa.svg",
+    "static/media/partly-cloudy.svg": "/xe-weather/static/media/partly-cloudy.22d48a6e6539fb07a325d6c917e2af6f.svg",
+    "static/media/clear-cloudy.svg": "/xe-weather/static/media/clear-cloudy.d9b3a0936eb8e8a2afe3a82821cdb335.svg",
+    "static/media/sunny.svg": "/xe-weather/static/media/sunny.5fbc744895f5820aaa0817732d17c1a0.svg",
+    "static/media/snow.svg": "/xe-weather/static/media/snow.67829818c224cc287799a75013f04a67.svg",
+    "static/media/sleet.svg": "/xe-weather/static/media/sleet.92ec76cd8d0c752b21fb8ab554e87316.svg",
+    "static/media/isolated-thunderstroms.svg": "/xe-weather/static/media/isolated-thunderstroms.eb5f71349036064065785818d5546d01.svg",
+    "static/media/hail.svg": "/xe-weather/static/media/hail.799e2887c12c9940533b49cf944f4088.svg",
+    "static/media/thunderstroms.svg": "/xe-weather/static/media/thunderstroms.860fb098f1a4832ab10571e68500af41.svg",
+    "static/media/windy.svg": "/xe-weather/static/media/windy.405044cd2f9d6f2e53bcdbb689f6b348.svg",
+    "static/media/snow-flurries.svg": "/xe-weather/static/media/snow-flurries.731dc2bb34a8b5783397be74e82179f1.svg",
+    "static/media/mostly-cloudy.svg": "/xe-weather/static/media/mostly-cloudy.e8547fde6ddbf965b0b7a7cd38eea20e.svg",
+    "static/media/tornado.svg": "/xe-weather/static/media/tornado.b2dc92f01515ab59cbfe23457259e56e.svg",
+    "static/media/cold.svg": "/xe-weather/static/media/cold.996ebe5e211321de610b6912ca59bd60.svg",
+    "static/media/showers.svg": "/xe-weather/static/media/showers.fca8714ee4d792d851492bcf7a57f8aa.svg",
+    "static/media/cloudy.svg": "/xe-weather/static/media/cloudy.3a37183da3b025e398a8a2833fe42ee3.svg",
+    "index.html": "/xe-weather/index.html",
+    "static/media/foggy.svg": "/xe-weather/static/media/foggy.1edba1334a6fd34ef662f3ea820af7b4.svg",
+    "main.e6c13ad2.css.map": "/xe-weather/static/css/main.e6c13ad2.css.map",
+    "main.a596801c.js.map": "/xe-weather/static/js/main.a596801c.js.map",
+    "787.8ced7805.chunk.js.map": "/xe-weather/static/js/787.8ced7805.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a596801c.js"
+  ]
+}
